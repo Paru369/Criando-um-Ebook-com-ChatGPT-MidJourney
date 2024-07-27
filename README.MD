@@ -20,7 +20,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="Paru369/Criando-um-Ebook-com-ChatGPT-MidJourney/output/ebook - INTRODUÇÃO A QUALIDADE DE SOFTWARE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Paru369/Criando-um-Ebook-com-ChatGPT-MidJourney/blob/main/output/ebook%20-%20INTRODUC%CC%A7A%CC%83O%20A%20QUALIDADE%20DE%20SOFTWARE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 

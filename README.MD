@@ -26,7 +26,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [GoogleSheets](https://docs.google.com/presentation)
 
 ## 🧠 Prompts
 
